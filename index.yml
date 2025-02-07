@@ -2,6 +2,7 @@
 id: course1
 title: CourseActivity2
 level: beginner
+description: Edit my description.
 contacts:
   - displayName: Ian Huff
     pictureUrl: https://avatars.githubusercontent.com/u/812783?v=4
