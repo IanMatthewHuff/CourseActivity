@@ -2,7 +2,10 @@
 id: course1
 title: NEWTITLE
 level: beginner
-description: Edit my description.
+description: |-
+  **Markdown**
+  ##Title
+  #Title1
 cardImageUrl: https://ppe.vscodeedu.com/assets/course-cards/card9.png
 contacts:
   - displayName: Ian Huff
@@ -10,3 +13,4 @@ contacts:
     homePageUrl: https://github.com/IanMatthewHuff
 units:
   - unit1/index.yml
+  - unit2/index.yml
